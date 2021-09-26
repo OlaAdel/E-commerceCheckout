@@ -11,7 +11,7 @@ on application startup, "import.sql" file will be executed to insert some data f
 to run the unit tests 
 
 >mvn clean
-mvn test
+>mvn test
 
 to run the application 
 >mvn spring-boot:run
